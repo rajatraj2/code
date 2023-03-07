@@ -39,7 +39,7 @@ int main()
     return 0; 
 } 
 
-public:
+    
     int minIteration(int N, int M, int x, int y){    
         // code here
         int ans=0;
@@ -53,4 +53,5 @@ public:
         
         return ans;
     }
-};
+    };
+    
